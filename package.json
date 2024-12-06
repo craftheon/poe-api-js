@@ -1,6 +1,6 @@
 {
-  "name": "poe-api",
-  "version": "0.0.1.alpla.0",
+  "name": "poe-api-js",
+  "version": "0.0.1",
   "description": "Typescript Api wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀",
   "main": "index.js",
   "scripts": {
